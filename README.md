@@ -1,6 +1,6 @@
 # Data Maturity Ranker Algorithm
 
-This is a university project whose primary purpose is to develop a preliminary NLP-based assessment to analyse different companies on how data-mature they are, using a proprietary Data Maturity Model (DMM). This project will not give the company a metric on how data mature it is, because the metric derived
+This project's primary purpose is to develop a preliminary NLP-based assessment to analyse different companies on how data-mature they are, using a proprietary Data Maturity Model (DMM). This project will not give the company a metric on how data mature it is, because the metric derived
 for a single company is not meant to be used only for the company. Instead, it will push towards
 comparing to other companies and how to gain a lead in comparison to the other companies
 analysed.
