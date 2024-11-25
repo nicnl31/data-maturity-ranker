@@ -5,7 +5,7 @@ for a single company is not meant to be used only for the company. Instead, it w
 comparing to other companies and how to gain a lead in comparison to the other companies
 analysed.
 
-This toy algorithm will be applied towards 5 major ASX companies with different sectors to compare and contrast their approach. They are:
+This algorithm will be applied towards 5 major ASX companies with different sectors to compare and contrast their approach. They are:
 - CSL Limited (CSL),
 - Commonwealth Bank of Australia (CBA),
 - BHP Group (BHP),
